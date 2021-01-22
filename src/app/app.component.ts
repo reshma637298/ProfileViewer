@@ -7,4 +7,11 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'github-finder';
+  public name=" ";
+  public address="";
+  public keyPressed=false;
+
+display() {
+    this.keyPressed= true;
+  }
 }

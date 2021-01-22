@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "github-finder"
+  "defaultProject": "github-finder",
+  "cli": {
+    "analytics": false
+  }
 }
